@@ -7,7 +7,10 @@ Notice:  This repository will contain all the required pieces of software to mak
 The core functionality is built around the Rpi-WebRTC-Streamer, which can be found here
 (https://github.com/kclyu/rpi-webrtc-streamer)
 
-####  Demo Video
+#### Projects Blog
+This project is described in the linked blog 
+http://www.parallelaxiom.com/blog/
+
 
 ## Hardware Requirement
 ### Raspberry PI 
